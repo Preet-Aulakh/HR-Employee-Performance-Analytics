@@ -52,3 +52,9 @@ Total Project = SUM(hr_employee_data[ProjectsCompleted])
 
 ---
 
+## 🤝 Contact & Connect
+If you have any questions about this project or would like to collaborate on data analytics initiatives, feel free to reach out!
+
+- **👤 Name:** Manpreet Singh
+- **📧 Gmail:** preetaulakh8756@gmail.com
+- **🖥️ GitHub Profile:** [Preet-Aulakh](https://github.com)
