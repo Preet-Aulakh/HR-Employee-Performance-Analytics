@@ -9,6 +9,13 @@ An end-to-end data analytics project designed to track, analyze, and optimize hu
 
 ---
 
+## 🔗 Live Interactive Dashboard
+
+👉 **[Click Here to View the Live Production Dashboard]()**  
+*(This link provides full interactive access to filters, carrier segmentations, and dynamic business metrics live on Looker Studio).*
+
+---
+
 ## 🚀 Key Features & Business Visuals
 * **Executive HR KPIs:** Instant visibility into core workforce metrics: **Average Salary (83.34K)**, **Average Performance Rating (3.15)**, **Total Employees (2K)**, and **Total Projects Completed (12K)**.
 * **Financial Workforce Operations:** In-depth departmental breakdown analyzing overall **Salaries** and **Bonuses** distributed to identify high-cost resource centers.
