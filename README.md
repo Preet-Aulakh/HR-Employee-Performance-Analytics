@@ -11,7 +11,7 @@ An end-to-end data analytics project designed to track, analyze, and optimize hu
 
 ## 🔗 Live Interactive Dashboard
 
-👉 **[Click Here to View the Live Production Dashboard]()**  
+👉 **[Click Here to View the Live Production Dashboard](https://datastudio.google.com/reporting/48c2b13b-a51a-4364-9056-490870b6f075)**  
 *(This link provides full interactive access to filters, carrier segmentations, and dynamic business metrics live on Looker Studio).*
 
 ---
